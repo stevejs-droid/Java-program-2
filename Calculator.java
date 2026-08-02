@@ -1,3 +1,4 @@
+package Module 1;
 import java.util.Scanner;
 
 public class Main {
